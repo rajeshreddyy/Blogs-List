@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.blog-list-container {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+}
+.blog-item-link {
+  text-decoration: none;
+}
